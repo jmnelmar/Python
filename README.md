@@ -1,4 +1,5 @@
 # Python
+A set of code samples and challenges made in python
 
  # Lock Boxes
  You have n number of locked boxes in front of you. Each box is numbered sequentially
