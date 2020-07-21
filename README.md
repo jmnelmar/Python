@@ -1,16 +1,17 @@
 # Python
 
-You have n number of locked boxes in front of you. Each box is numbered sequentially
-from 0 to n - 1 and each box may contain keys to the other boxes.
+ # Lock Boxes
+ You have n number of locked boxes in front of you. Each box is numbered sequentially
+ from 0 to n - 1 and each box may contain keys to the other boxes.
 
-Determines if all the boxes can be opened.
+ Determines if all the boxes can be opened.
 
-The boxes are a list of lists
-A key with the same number as a box opens that box
-You can assume all keys will be positive integers
-The first box is unlocked
+ The boxes are a list of lists
+ A key with the same number as a box opens that box
+ You can assume all keys will be positive integers
+ The first box is unlocked
 
-Examples.
+ Examples.
  
     [[1], [2], [3], [4], []]
     true
