@@ -1,7 +1,7 @@
 # Python
 A set of code samples and challenges made in python
 
- # [Lock Boxes](https://github.com/user/repo/blob/branch/other_file.md)
+ # [Lock Boxes](https://github.com/jmnelmar/Python/tree/master/lockboxes)
  
  You have n number of locked boxes in front of you. Each box is numbered sequentially
  from 0 to n - 1 and each box may contain keys to the other boxes.
