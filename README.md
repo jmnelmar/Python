@@ -7,10 +7,10 @@ A set of code samples and challenges made in python
 
  Determines if all the boxes can be opened.
 
- The boxes are a list of lists
- A key with the same number as a box opens that box
- You can assume all keys will be positive integers
- The first box is unlocked
+  The boxes are a list of lists
+  A key with the same number as a box opens that box
+  You can assume all keys will be positive integers
+  The first box is unlocked
 
  Examples.
  
